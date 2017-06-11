@@ -1,0 +1,13 @@
+﻿  Assembling LevenshteinDistanceAsmDll.asm...
+LevenshteinDistanceAsmDll.asm(2): error A2008: syntax erroLevenshteinDistanceAsmDll.asm(3)ze
+LevenshteinDistanceAsmDll.asm(3): error A2008: syntax erro
+\masm32\include\windows.inc(9750): error A2008: syntax error :\masm32\include\windows.inc(10183)size
+\masm32\include\windows.inc(10183): error A2008: syntax error\masm32\include\windows.inc(16333)size
+\masm32\include\windows.inc(16333): error A2008: syntax error\masm32\include\windows.inc(18862)size
+\masm32\include\windows.inc(18862): error A2008: syntax error\masm32\include\winextra.inc(11052) size
+\masm32\include\winextra.inc(11052): error A2026: constant exp\masm32\include\winextra.inc(11053) size
+\masm32\include\winextra.inc(11053): error A2026: constant expLevenshteinDistanceAsmDll.asm(28)ize
+LevenshteinDistanceAsmDll.asm(28): error A2008: syntax error : DlLevenshteinDistanceAsmDll.asm(29)ize
+LevenshteinDistanceAsmDll.asm(29): error A2088: END directive required at end of fLevenshteinDistanceAsmDll.asm(10) : warning A6004:procedure argument or local not reference
+LevenshteinDistanceAsmDll.asm(10): warning A6004: procedure argument or local not reference
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\LevenshteinDistanceAsmDll.obj" /W3 /errorReport:prompt  /TaLevenshteinDistanceAsmDll.asm" exited with code 1.

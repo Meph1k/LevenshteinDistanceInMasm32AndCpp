@@ -1,0 +1,6 @@
+;-------------------------------------------------------------------------
+LIBRARY LevenshteinDistanceAsm
+EXPORTS initializeLevMatrix
+EXPORTS countDiagonally
+EXPORTS countLevenshteinDistance
+;-------------------------------------------------------------------------

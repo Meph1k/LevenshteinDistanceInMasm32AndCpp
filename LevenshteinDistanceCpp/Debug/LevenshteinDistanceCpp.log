@@ -1,0 +1,12 @@
+﻿  LevenshteinDistanceCpp.cpp
+c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.cpp(8): warning C4273: 'LevenshteinDistanceCpp::Functions::findMinimum': inconsistent dll linkage
+  c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.h(15): note: see previous definition of 'findMinimum'
+c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.cpp(11): warning C4273: 'LevenshteinDistanceCpp::Functions::initializeLevMatrix': inconsistent dll linkage
+  c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.h(18): note: see previous definition of 'initializeLevMatrix'
+c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.cpp(20): warning C4273: 'LevenshteinDistanceCpp::Functions::countDiagonally': inconsistent dll linkage
+  c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.h(19): note: see previous definition of 'countDiagonally'
+c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.cpp(24): warning C4273: 'LevenshteinDistanceCpp::Functions::countLevenshteinDistance': inconsistent dll linkage
+  c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.h(17): note: see previous definition of 'countLevenshteinDistance'
+c:\users\piotr\documents\visual studio 2015\projects\levenshteindistanceandclient\levenshteindistancecpp\levenshteindistancecpp.cpp(27): warning C4018: '<=': signed/unsigned mismatch
+  LevenshteinDistanceCpp.vcxproj -> C:\Users\Piotr\documents\visual studio 2015\Projects\LevenshteinDistanceAndClient\Debug\LevenshteinDistanceCpp.dll
+  LevenshteinDistanceCpp.vcxproj -> C:\Users\Piotr\documents\visual studio 2015\Projects\LevenshteinDistanceAndClient\Debug\LevenshteinDistanceCpp.pdb (Full PDB)
